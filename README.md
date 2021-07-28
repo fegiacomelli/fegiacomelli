@@ -1,12 +1,20 @@
-![image](https://user-images.githubusercontent.com/69607844/127387589-b31a33d6-3b91-4415-bc11-12f50933497f.png)
-![image](https://user-images.githubusercontent.com/69607844/127387613-fb2e941e-a94c-4216-8bcc-bb5c5d54c9dd.png)
-![image](https://user-images.githubusercontent.com/69607844/127387626-9f35deca-c38d-4933-8b84-48a41001c3ff.png)
-![image](https://user-images.githubusercontent.com/69607844/127387631-71d8faa1-07e5-4c08-8a39-c960b32b579c.png)
-![image](https://user-images.githubusercontent.com/69607844/127387653-f22bae82-cb6e-4a8d-a2d1-17a2dcc04f9f.png)
-![image](https://user-images.githubusercontent.com/69607844/127387662-63125f2c-68cd-400a-ba3c-b47114fddb67.png)
-![image](https://user-images.githubusercontent.com/69607844/127387697-9c9432a5-3ba1-41c5-b9cd-813fe16db9d9.png)
-![image](https://user-images.githubusercontent.com/69607844/127387707-d8f24bf7-081a-4f24-bf57-da48efa506b9.png)
 
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fegiacomelli&show_icons=true&theme=highcontrast) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fegiacomelli&layout=compact&theme=highcontrast)
+
+<div style="display: inline_block">
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+<a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+<a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+</div>
+
+<hr>
 
 
 
